@@ -51,4 +51,8 @@ Successfully installed MarkupSafe-2.1.4 diskcache-5.6.3 jinja2-3.1.3 llama-cpp-p
 
 ```
 
+### 🌟 Let's Stay Connected! 🌟
 
+If you're enjoying my projects and want to see more, make sure to follow me on GitHub. I'm constantly working on exciting new stuff, and I'd love for you to be a part of it. Just click on the link below and hit the "Follow" button on GitHub. Let's embark on this coding adventure together!
+
+👉 [Follow me on GitHub](https://github.com/marcpre)
